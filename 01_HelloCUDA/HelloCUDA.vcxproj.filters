@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CudaCompile Include="main.cu" />
+    <CudaCompile Include="vecAdd_benchmark\vecAdd_benchmark.cu" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="vecAdd_benchmark\DS_timer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="vecAdd_benchmark\DS_definitions.h" />
+    <ClInclude Include="vecAdd_benchmark\DS_timer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\Quick_Lab_8_1_Hello_CUDA.md" />
+  </ItemGroup>
+</Project>

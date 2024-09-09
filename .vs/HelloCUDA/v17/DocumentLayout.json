@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEE344-B5FC-4C85-9EF2-D7F872B8A9E7}|LargeDataSharedMemoryMgmt\\LargeDataSharedMemoryMgmt.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\LargeDataSharedMemoryMgmt\\MatMul_sharedMem_skeleton.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D8FEE344-B5FC-4C85-9EF2-D7F872B8A9E7}|LargeDataSharedMemoryMgmt\\LargeDataSharedMemoryMgmt.vcxproj|solutionrelative:LargeDataSharedMemoryMgmt\\MatMul_sharedMem_skeleton.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FEE344-B5FC-4C85-9EF2-D7F872B8A9E7}|LargeDataSharedMemoryMgmt\\LargeDataSharedMemoryMgmt.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\LargeDataSharedMemoryMgmt\\10_6.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D8FEE344-B5FC-4C85-9EF2-D7F872B8A9E7}|LargeDataSharedMemoryMgmt\\LargeDataSharedMemoryMgmt.vcxproj|solutionrelative:LargeDataSharedMemoryMgmt\\10_6.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EDC057-72A9-41F3-A38D-42DC1411E693}|SharedMemoryMgmt\\SharedMemoryMgmt.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\SharedMemoryMgmt\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F6EDC057-72A9-41F3-A38D-42DC1411E693}|SharedMemoryMgmt\\SharedMemoryMgmt.vcxproj|solutionrelative:SharedMemoryMgmt\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC5E564-19F0-44EB-8907-7FEAABDD7BD7}|04_ThreadHierachy\\04_ThreadHierachy.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\04_ThreadHierachy\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BAC5E564-19F0-44EB-8907-7FEAABDD7BD7}|04_ThreadHierachy\\04_ThreadHierachy.vcxproj|solutionrelative:04_ThreadHierachy\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCA480E-ADE4-4787-AA18-61FC21DA8DF6}|HelloCUDA\\HelloCUDA.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\HelloCUDA\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6BCA480E-ADE4-4787-AA18-61FC21DA8DF6}|HelloCUDA\\HelloCUDA.vcxproj|solutionrelative:HelloCUDA\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2D9D77-D468-4B55-8A23-A0013A560E16}|06_MatrixThreadIndexing\\06_MatrixThreadIndexing.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\06_MatrixThreadIndexing\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC2D9D77-D468-4B55-8A23-A0013A560E16}|06_MatrixThreadIndexing\\06_MatrixThreadIndexing.vcxproj|solutionrelative:06_MatrixThreadIndexing\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2D7C50-E2CA-4943-A47D-2FB3EC4A6CF8}|05_LargeVectorSum\\05_LargeVectorSum.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\05_LargeVectorSum\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C2D7C50-E2CA-4943-A47D-2FB3EC4A6CF8}|05_LargeVectorSum\\05_LargeVectorSum.vcxproj|solutionrelative:05_LargeVectorSum\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC09885-A4EB-457B-960D-639074ABB789}|dummy\\dummy.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\data_copy.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BC09885-A4EB-457B-960D-639074ABB789}|dummy\\dummy.vcxproj|solutionrelative:dummy\\data_copy.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC09885-A4EB-457B-960D-639074ABB789}|dummy\\dummy.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BC09885-A4EB-457B-960D-639074ABB789}|dummy\\dummy.vcxproj|solutionrelative:dummy\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC09885-A4EB-457B-960D-639074ABB789}|dummy\\dummy.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\memory_mgmt.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BC09885-A4EB-457B-960D-639074ABB789}|dummy\\dummy.vcxproj|solutionrelative:dummy\\memory_mgmt.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC09885-A4EB-457B-960D-639074ABB789}|dummy\\dummy.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\CUDA_definitions.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BC09885-A4EB-457B-960D-639074ABB789}|dummy\\dummy.vcxproj|solutionrelative:dummy\\CUDA_definitions.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A1D9A0-7CE6-4B14-8A00-B613DFD67BA5}|03_VectorSumTimeLog\\03_VectorSumTimeLog.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\03_VectorSumTimeLog\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5A1D9A0-7CE6-4B14-8A00-B613DFD67BA5}|03_VectorSumTimeLog\\03_VectorSumTimeLog.vcxproj|solutionrelative:03_VectorSumTimeLog\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3BA9EF-BAEB-4C98-88FB-86F09E0B15CC}|02_VectorSum\\02_VectorSum.vcxproj|C:\\Users\\82103\\source\\repos\\HelloCUDA\\02_VectorSum\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C3BA9EF-BAEB-4C98-88FB-86F09E0B15CC}|02_VectorSum\\02_VectorSum.vcxproj|solutionrelative:02_VectorSum\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10_6.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\LargeDataSharedMemoryMgmt\\10_6.cu",
+              "RelativeDocumentMoniker": "LargeDataSharedMemoryMgmt\\10_6.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\LargeDataSharedMemoryMgmt\\10_6.cu",
+              "RelativeToolTip": "LargeDataSharedMemoryMgmt\\10_6.cu",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T08:13:15.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatMul_sharedMem_skeleton.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\LargeDataSharedMemoryMgmt\\MatMul_sharedMem_skeleton.cu",
+              "RelativeDocumentMoniker": "LargeDataSharedMemoryMgmt\\MatMul_sharedMem_skeleton.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\LargeDataSharedMemoryMgmt\\MatMul_sharedMem_skeleton.cu",
+              "RelativeToolTip": "LargeDataSharedMemoryMgmt\\MatMul_sharedMem_skeleton.cu",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T08:13:13.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\SharedMemoryMgmt\\main.cu",
+              "RelativeDocumentMoniker": "SharedMemoryMgmt\\main.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\SharedMemoryMgmt\\main.cu",
+              "RelativeToolTip": "SharedMemoryMgmt\\main.cu",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAGYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T07:31:45.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\06_MatrixThreadIndexing\\main.cu",
+              "RelativeDocumentMoniker": "06_MatrixThreadIndexing\\main.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\06_MatrixThreadIndexing\\main.cu",
+              "RelativeToolTip": "06_MatrixThreadIndexing\\main.cu",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T05:28:30.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\04_ThreadHierachy\\main.cu",
+              "RelativeDocumentMoniker": "04_ThreadHierachy\\main.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\04_ThreadHierachy\\main.cu",
+              "RelativeToolTip": "04_ThreadHierachy\\main.cu",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T04:06:22.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "memory_mgmt.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\memory_mgmt.cu",
+              "RelativeDocumentMoniker": "dummy\\memory_mgmt.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\memory_mgmt.cu",
+              "RelativeToolTip": "dummy\\memory_mgmt.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T03:25:37.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\kernel.cu",
+              "RelativeDocumentMoniker": "dummy\\kernel.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\kernel.cu",
+              "RelativeToolTip": "dummy\\kernel.cu",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-08T08:51:37.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "data_copy.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\data_copy.cu",
+              "RelativeDocumentMoniker": "dummy\\data_copy.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\data_copy.cu",
+              "RelativeToolTip": "dummy\\data_copy.cu",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T03:23:17.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\05_LargeVectorSum\\main.cu",
+              "RelativeDocumentMoniker": "05_LargeVectorSum\\main.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\05_LargeVectorSum\\main.cu",
+              "RelativeToolTip": "05_LargeVectorSum\\main.cu",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwHsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T04:16:15.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CUDA_definitions.cuh",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\CUDA_definitions.cuh",
+              "RelativeDocumentMoniker": "dummy\\CUDA_definitions.cuh",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\dummy\\CUDA_definitions.cuh",
+              "RelativeToolTip": "dummy\\CUDA_definitions.cuh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T05:25:59.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\03_VectorSumTimeLog\\main.cu",
+              "RelativeDocumentMoniker": "03_VectorSumTimeLog\\main.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\03_VectorSumTimeLog\\main.cu",
+              "RelativeToolTip": "03_VectorSumTimeLog\\main.cu",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T03:39:48.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\HelloCUDA\\main.cu",
+              "RelativeDocumentMoniker": "HelloCUDA\\main.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\HelloCUDA\\main.cu",
+              "RelativeToolTip": "HelloCUDA\\main.cu",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-08T08:51:03.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main.cu",
+              "DocumentMoniker": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\02_VectorSum\\main.cu",
+              "RelativeDocumentMoniker": "02_VectorSum\\main.cu",
+              "ToolTip": "C:\\Users\\82103\\source\\repos\\HelloCUDA\\02_VectorSum\\main.cu",
+              "RelativeToolTip": "02_VectorSum\\main.cu",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T03:30:37.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
