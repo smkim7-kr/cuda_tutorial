@@ -1,5 +1,5 @@
-# Quick Lab 8-2: Vector Sum with CUDA
-This lab demonstrates how to perform vector addition using CUDA, illustrating how to use device memory and the GPU for computation.
+# Vector Sum with CUDA
+Perform vector addition using CUDA, illustrating how to use device memory and the GPU for computation.
 
 ## Key Concepts:
 - **Host vs. Device Memory**: Host memory refers to the CPU's main memory, while device memory refers to the GPU's global memory.

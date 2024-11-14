@@ -1,5 +1,5 @@
-# Quick Lab 8-1: Hello CUDA!
-This lab introduces the basics of CUDA programming by printing messages from both the CPU (host) and the GPU (device).
+# Hello CUDA!
+Basics of CUDA programming by printing messages from both the CPU (host) and the GPU (device).
 
 ## Key Concepts:
 - **CUDA Program Structure**: A CUDA program typically consists of both host code (running on the CPU) and device code (running on the GPU).

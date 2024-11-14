@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\82103\source\repos\HelloCUDA\x64\Debug\01_HelloCUDA.exe</FullPath>
+      <FullPath>C:\Users\82103\source\repos\HelloCUDA\x64\Debug\01_HelloCuda.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

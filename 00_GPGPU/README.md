@@ -1,7 +1,6 @@
 
-# Lecture: Introduction to GPGPU and CUDA
+# Introduction to GPGPU and CUDA
 
-### Instructor: Duksu Kim, HPC Lab
 
 ## Overview
 
